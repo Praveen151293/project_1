@@ -1,0 +1,15 @@
+.image {
+    width: 100%;
+}
+
+.module {
+    background-color:#483D43;
+    color: #fff;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.text {
+    margin-left: 20px;
+}
